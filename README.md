@@ -4,7 +4,7 @@
 
 Ecstatic is an LOD mod designed to be as efficient and as close to vanilla performance as possible, while allowing you to hit render distances of over 256 chunks
 
- 
+I'm fairly burnt out, expect updates in the next couple of weeks!
 
 CC BY NC SA 4.0 Liscence, source at [https://github.com/Wizardtastic/Ecstatic](https://github.com/Wizardtastic/Ecstatic)
 
