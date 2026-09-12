@@ -198,7 +198,7 @@ public final class LodSettingsConfig {
     }
 
     public float lodRenderDistanceScale() {
-        return Mth.clamp(this.data.lodRenderDistanceScale, 0.25F, 2.0F);
+        return Mth.clamp(this.data.lodRenderDistanceScale, 0.25F, 10.0F);
     }
 
     void setLodRenderDistanceScale(float lodRenderDistanceScale) {
