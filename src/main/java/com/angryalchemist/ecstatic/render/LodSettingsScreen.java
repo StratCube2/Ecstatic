@@ -18,7 +18,7 @@ public final class LodSettingsScreen extends Screen {
     private static final int SCROLLBAR_WIDTH = 6;
     private static final double SCROLL_SPEED = 16.0;
     private static final int RENDER_DISTANCE_MIN_PERCENT = 25;
-    private static final int RENDER_DISTANCE_MAX_PERCENT = 200;
+    private static final int RENDER_DISTANCE_MAX_PERCENT = 1000;
     private static final int SLIDER_STEP_PERCENT = 5;
     private static final int FOG_FALLOFF_MIN_PERCENT = 25;
     private static final int FOG_FALLOFF_MAX_PERCENT = 300;
